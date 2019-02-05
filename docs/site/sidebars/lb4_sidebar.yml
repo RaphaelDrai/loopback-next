@@ -104,23 +104,15 @@ children:
         url: soap-calculator-tutorial-run-and-test.html
         output: 'web, pdf'
 
-    - title: 'Examples'
-      url: Examples.html
-      output: 'web, pdf'
-      children:
+  - title: 'Examples'
+    url: Examples.html
+    output: 'web, pdf'
+    children:
 
-      - title: 'Example1'
-        url: Exanple1.html
-        output: 'web, pdf'
-
-    - title: 'Contributions from the LoopBack Community'
-      url: Contributions.html
-      output: 'web, pdf'
-      children:
-
-      - title: 'Contribution1'
-        url: Contribution1.html
-        output: 'web, pdf'
+  - title: 'Contributions from the LoopBack Community'
+    url: Contributions.html
+    output: 'web, pdf'
+    children:
 
 - title: 'Key concepts'
   url: Concepts.html
@@ -222,7 +214,7 @@ children:
     url: Error-handling.html
     output: 'web, pdf'
 
-- title: 'How-tos'
+- title: 'How-to's'
   url: How-tos.html
   output: 'web, pdf'
   children:
