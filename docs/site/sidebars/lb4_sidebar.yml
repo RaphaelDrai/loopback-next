@@ -107,12 +107,10 @@ children:
   - title: 'Examples'
     url: Examples.html
     output: 'web, pdf'
-    children:
 
   - title: 'Contributions from the LoopBack Community'
     url: Contributions.html
     output: 'web, pdf'
-    children:
 
 - title: 'Key concepts'
   url: Concepts.html
@@ -218,6 +216,7 @@ children:
   url: How-tos.html
   output: 'web, pdf'
   children:
+    
     - title: 'Exposing GraphQL APIs'
       url: exposing-graphql-apis.html
       output: 'web, pdf'
