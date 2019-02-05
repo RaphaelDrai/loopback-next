@@ -13,5 +13,4 @@ The LoopBack Community has created these projects:
   reload upon code changes.
 
 You can submit example projects to the repository at
-[https://github.com/strongloop/loopback-next/issues]
-https://github.com/strongloop/loopback-next/issues
+**[https://github.com/strongloop/loopback-next/issues](https://github.com/strongloop/loopback-next/issues)**
