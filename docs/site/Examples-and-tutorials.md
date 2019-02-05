@@ -21,13 +21,13 @@ LoopBack 4 comes with the following tutorials:
 - **[log-extension](https://github.com/strongloop/loopback-next/tree/master/examples/log-extension)**:
   Tutorial on building a log extension.
 
-LoopBack 4 also comes with the example projects, which are available here:
+LoopBack 4 also comes with example projects, which are available here:
 
-- **[Example Projects](Examples.md)**:
+- **[Example Projects](Examples.md)**
 
 Projects that were contributed by the LoopBack community are available here:
 
-- **[Contributions from the LoopBack Community](Contributions.md)**:
+- **[Contributions from the LoopBack Community](Contributions.md)**
 
 You can download the following example projects using our CLI tool `lb4`:
 
