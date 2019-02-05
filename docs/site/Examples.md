@@ -1,6 +1,6 @@
 ---
 lang: en
-title: Examples
+title: Example Projects
 keywords: LoopBack 4.0
 sidebar: lb4_sidebar
 permalink: /doc/en/lb4/Examples.html
